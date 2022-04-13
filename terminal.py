@@ -7,6 +7,7 @@ import argparse
 import difflib
 #import difflib
 import logging
+#import logging
 import os
 import platform
 import sys
