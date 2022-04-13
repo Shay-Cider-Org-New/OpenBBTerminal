@@ -5,6 +5,7 @@ __docformat__ = "numpy"
 #import argparse
 import argparse
 import difflib
+#import difflib
 import logging
 import os
 import platform
