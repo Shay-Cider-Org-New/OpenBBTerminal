@@ -5,6 +5,7 @@ logs/
 *.env
 .venv
 .vscode
+.vscode
 *.ipynb
 env/
 venv/
