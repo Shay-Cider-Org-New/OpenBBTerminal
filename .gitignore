@@ -8,6 +8,7 @@ logs/
 .vscode
 *.ipynb
 env/
+env/
 venv/
 !notebooks/jupyter/.gitkeep
 .python-version
