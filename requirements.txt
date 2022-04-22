@@ -6,6 +6,8 @@ aiohttp==3.8.1; python_version >= "3.6"
 alabaster==0.7.12; python_version >= "3.7"alabaster==0.7.12; python_version >= "3.7"
 alpha-vantage==2.3.1
 ansiwrap==0.8.4; python_version >= "3.6"
+
+ansiwrap==0.8.4; python_version >= "3.6"
 anyio==3.5.0; python_full_version >= "3.6.2" and python_version >= "3.7"
 anyio==3.5.0; python_full_version >= "3.6.2" and python_version >= "3.7"
 appnope==0.1.2; platform_system == "Darwin" and python_version >= "3.8" and sys_platform == "darwin"
